@@ -1,0 +1,48 @@
+import 'package:get/get.dart';
+import 'package:latihan_soal/app/modules/diskusi/diskusi_binding.dart';
+import 'package:latihan_soal/app/modules/diskusi/views/halaman_diskusi.dart';
+import '../modules/auth/login/login_binding.dart';
+import '../modules/auth/login/views/login_view.dart';
+import '../modules/auth/register/register_binding.dart';
+import '../modules/auth/register/views/register_view.dart';
+import '../modules/home/bindings/home_binding.dart';
+import '../modules/home/views/home_view.dart';
+import '../modules/splash/bindings/splash_binding.dart';
+import '../modules/splash/views/splash_view.dart';
+
+// ignore_for_file: constant_identifier_names
+
+part 'app_routes.dart';
+
+class AppPages {
+  AppPages._();
+
+  static const INITIAL = Routes.SPLASH;
+
+  static final routes = [
+    GetPage(
+      name: _Paths.HOME,
+      page: () => const HomeView(),
+      binding: HomeBinding(),
+    ),
+    GetPage(
+      name: _Paths.LOGIN,
+      page: () => const LoginView(),
+      binding: LoginBinding(),
+    ),
+    GetPage(
+      name: _Paths.SPLASH,
+      page: () => const SplashView(),
+      binding: SplashBinding(),
+    ),
+    GetPage(
+      name: _Paths.REGISTER,
+      page: () => RegisterView(),
+      binding: RegisterBinding(),
+    ),
+    GetPage(
+        name: _Paths.DISKUSI,
+        page: () => HalamanDiskusi(),
+        binding: DiskusiBinding()),
+  ];
+}

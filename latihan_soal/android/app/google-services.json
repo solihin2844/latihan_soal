@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "324099293471",
+    "project_id": "kak-sol-flutter",
+    "storage_bucket": "kak-sol-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324099293471:android:ac738476a8eabd2b7cf02a",
+        "android_client_info": {
+          "package_name": "com.latihan_soal.sinn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324099293471-3n495rqifpsk11gnm5pgbh6spvbh56qe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.latihan_soal.sinn",
+            "certificate_hash": "edac6278fdaa8b7a1e26c766598dcc3f34e9ceb2"
+          }
+        },
+        {
+          "client_id": "324099293471-mgkk99jkt28b2smmbthsobkimgm26j1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd65kQI0pBfgx-i5j8sVizke5jKZRXdnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324099293471-mgkk99jkt28b2smmbthsobkimgm26j1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324099293471:android:ebfe7f81fc06437c7cf02a",
+        "android_client_info": {
+          "package_name": "com.sinn.damenro3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324099293471-hr0jq1dm5b3qene01adedablhcpq3j6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sinn.damenro3",
+            "certificate_hash": "743531e74f8c4c94a4b1fa80d827ecc40f4ab45d"
+          }
+        },
+        {
+          "client_id": "324099293471-mgkk99jkt28b2smmbthsobkimgm26j1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd65kQI0pBfgx-i5j8sVizke5jKZRXdnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324099293471-mgkk99jkt28b2smmbthsobkimgm26j1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324099293471:android:c2b3f956f481e7277cf02a",
+        "android_client_info": {
+          "package_name": "com.sinn.my_ebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324099293471-skohkremn3oskli2216goisjh69j1v53.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sinn.my_ebook",
+            "certificate_hash": "743531e74f8c4c94a4b1fa80d827ecc40f4ab45d"
+          }
+        },
+        {
+          "client_id": "324099293471-mgkk99jkt28b2smmbthsobkimgm26j1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd65kQI0pBfgx-i5j8sVizke5jKZRXdnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324099293471-mgkk99jkt28b2smmbthsobkimgm26j1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
